@@ -7,6 +7,7 @@ environment:
 # Do not build feature branch with open Pull Requests
 skip_branch_with_pr: true
 
+
 init:
   # exit if secure variables are unset (saves time if fired by a non-team pull request)
   - ps: if ($env:GH_SSH_PRIVATE_KEY -eq $null) { exit }
@@ -43,6 +44,12 @@ before_build:
         $env:CORE_WHEEL = "--pre oll-core"
         $env:PARTNERS_WHEEL = "--pre oll-partners-us-dc"
       };
+      
+  - "%PYTHON%\\python.exe -m pip -q install wheel"
+  - "%PYTHON%\\python.exe -m pip -q install %TAF_WHEEL%"
+  - "%PYTHON%\\python.exe -m pip -q install %CORE_WHEEL%"
+  - "%PYTHON%\\python.exe -m pip -q install %PARTNERS_WHEEL%"
+  - "%PYTHON%\\python.exe -m pip list"
 
   - ps: Copy-Item $env:APPVEYOR_BUILD_FOLDER '..\DCCouncil\law-xml' -Recurse
   - git clone --depth 1 git@github.com:oll-test-repos/DCCouncil-law-xml-codified-preview.git ..\DCCouncil\law-xml-codified-preview
