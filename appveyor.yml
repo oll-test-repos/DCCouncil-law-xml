@@ -45,17 +45,15 @@ before_build:
       };
 
   - ps: Copy-Item $env:APPVEYOR_BUILD_FOLDER '..\DCCouncil\law-xml' -Recurse
-  - git clone git@github.com:oll-test-repos/DCCouncil-law-xml-codified.git ..\DCCouncil\law-xml-codified
-  - git clone git@github.com:oll-test-repos/DCCouncil-law-html.git ..\DCCouncil\law-html
   - git clone --depth 1 git@github.com:oll-test-repos/DCCouncil-law-xml-codified-preview.git ..\DCCouncil\law-xml-codified-preview
   - git clone --depth 1 git@github.com:oll-test-repos/DCCouncil-law-html-preview.git ..\DCCouncil\law-html-preview
   - git clone  git@github.com:oll-test-repos/DCCouncil-law.git ..\law
 
   # install versioned resources (if and only if the build is a tag or cron build)
   - "%PYTHON%\\python.exe -m pip -q install -r requirements.txt"
-  # print out the git commits for each repo
-  - git -C ..\DCCouncil\law-xml-codified rev-parse HEAD
-  - git -C ..\DCCouncil\law-html rev-parse HEAD
+  # print out the git commits for xml repo
+  - git -C ..\DCCouncil\law-xml rev-parse HEAD
+
 
 build_script:
    - ps: $env:FLAG = if ($env:APPVEYOR_PULL_REQUEST_NUMBER -eq $null) { "--deploy" }
