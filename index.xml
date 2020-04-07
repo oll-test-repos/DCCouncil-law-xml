@@ -7,9 +7,10 @@
       <email>code@dccouncil.us</email>
     </contact>
     <canonical-urls>
-      <xml-bulk>https://github.com/dccouncil/dc-law-xml</xml-bulk>
-      <html-bulk>https://github.com/dccouncil/dc-law-html</html-bulk>
+      <xml-bulk>https://github.com/oll-test-repos/DCCouncil-law-xml</xml-bulk>
+      <html-bulk>https://github.com/oll-test-repos/DCCouncil-law-html</html-bulk>
       <html>https://code.dccouncil.us</html>
+	  <static-assets>https://github.com/oll-test-repos/DCCouncil-law-static-assets</static-assets>
     </canonical-urls>
   </meta>
   <xi:include href="./dc/council/code/index.xml"/>
