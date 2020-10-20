@@ -18,6 +18,7 @@
         <out>/us/dc/council</out>
       </redirect>
     </redirects>
+	<history-start>2020-01-01</history-start>
   </meta>
   <xi:include href="./us/dc/council/code/index.xml"/>
   <collection name="dclaws">
