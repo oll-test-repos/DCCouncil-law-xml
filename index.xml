@@ -9,8 +9,8 @@
     <canonical-urls>
       <xml-bulk>https://github.com/dccouncil/law-xml</xml-bulk>
       <html-bulk>https://github.com/dccouncil/law-html</html-bulk>
-      <static-assets>https://github.com/dccouncil/law-static-assets</static-assets>
       <html>https://code.dccouncil.us</html>
+      <static-assets>https://github.com/dccouncil/law-static-assets</static-assets>
     </canonical-urls>
     <redirects>
       <redirect>
