@@ -7,7 +7,7 @@
   <heading type="long">To ban non-compete provisions in employment contracts and employer policies, to protect employees from being required to sign non-compete agreements, to make void and unenforceable non-compete provisions entered into after the applicability date of this act, to prohibit an employer from retaliating or threatening to retaliate against an employee for refusing to agree to a non-compete provision, the failure to comply with the employer's non-compete provision or policy, or inquiring about the employee's rights or informing another person or entity about a possible violation of Title I of this act, to exempt medical specialists from certain of Title I's requirements, to protect medical specialists by requiring their employers to provide employees 14 days' notice of non-compete provisions and notice of their rights under Title I, to require that employers inform employees of Title I of this act, to require that the Mayor and the Attorney General administer and enforce Title I of this act consistent with their respective powers and rights under An Act To provide for the payment and collection of wages in the District of Columbia and the District's Administrative Procedure Act, to authorize the Mayor to collect administrative penalties for violations of Title I of this act, to authorize employees to bring administrative complaints and civil actions against employers for violations of Title I of this act, to provide statutory penalties for violations of Title I of this act; to amend An Act To provide for the payment and collection of wages in the District of Columbia to provide that revenue from administrative penalties recovered under Title I of this act shall be deposited into the Wage Theft Prevention Fund and used to enforce the provisions of Title I of this act and other employee protection laws; and to repeal the Broadcast Industry Contracting Freedom Act of 2002.</heading>
   <meta>
     <introduced>2019-10-08</introduced>
-    <effective projected="true">2022-04-01</effective>
+    <effective>2021-03-16</effective>
     <!-- effective 2021-03-16 EA24-159 changed the applicability date of this law to 2022-04-01 -->
     <citations>
       <citation type="law" url="https://lims.dccouncil.us/downloads/LIMS/43373/Signed_Act/B23-0494-Signed_Act.pdf">D.C. Law 23-209</citation>
@@ -44,7 +44,7 @@
         <text>For the purposes of <code-cite doc="D.C. Code" path="32|5B">this title</code-cite>, the term:</text>
         <para>
           <num>(1)</num>
-          <text>"An Act" means An Act To provide for the payment and collection of wages in the District of Columbia, approved August 3, 1956 (70 Stat. 976; D.C. Official Code § 32-1301 <em>et seq.</em>).</text>
+          <text>"An Act" means <code-cite doc="D.C. Code" path="32|13">An Act To provide for the payment and collection of wages in the District of Columbia, approved August 3, 1956 (70 Stat. 976; D.C. Official Code § 32-1301 <em>et seq.</em>)</code-cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -215,7 +215,8 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The following written notice to the medical specialist at the same time the employer provides the proposed non-compete provision to the medical specialist: "The Ban on Non-Compete Agreements Amendment Act of 2020 allows employers operating in the District of Columbia to request non-compete terms or agreements (also known as "covenants not to compete") from medical specialists they plan to employ. The prospective employer must provide the proposed non-compete provision directly to the medical specialist at least 14 days before execution of the agreement containing the provision. Medical specialists are individuals who: (1) perform work on behalf of an employer engaged primarily in the delivery of medical services; (2) hold a license to practice medicine; (3) have completed a medical residency; and (4) have total compensation of at least $250,000 per year."</text>
+          <text>The following written notice to the medical specialist at the same time the employer provides the proposed non-compete provision to the medical specialist:</text>
+          <text>"The Ban on Non-Compete Agreements Amendment Act of 2020 allows employers operating in the District of Columbia to request non-compete terms or agreements (also known as "covenants not to compete") from medical specialists they plan to employ. The prospective employer must provide the proposed non-compete provision directly to the medical specialist at least 14 days before execution of the agreement containing the provision. Medical specialists are individuals who: (1) perform work on behalf of an employer engaged primarily in the delivery of medical services; (2) hold a license to practice medicine; (3) have completed a medical residency; and (4) have total compensation of at least $250,000 per year."</text>
         </para>
       </para>
       <para>
@@ -256,7 +257,7 @@
         <num>(a)</num>
         <para>
           <num>(1)</num>
-          <text>The Mayor and Attorney General for the District of Columbia ("Attorney General") shall administer and enforce <code-cite doc="D.C. Code" path="32|5B">this title</code-cite> consistent with their respective powers and rights under <code-cite doc="D.C. Code" path="§32-1306|(a)">section 6(a)</code-cite>, <cite doc="D.C. Code" path="§23-1306|(b)">(b)</cite>, and <code-cite doc="D.C. Code" path="§32-1306|(c)">(c) of An Act</code-cite>.</text>
+          <text>The Mayor and Attorney General for the District of Columbia ("Attorney General") shall administer and enforce <code-cite doc="D.C. Code" path="32|5B">this title</code-cite> consistent with their respective powers and rights under <code-cite doc="D.C. Code" path="§32-1306|(a)">section 6(a)</code-cite>, <cite doc="D.C. Code" path="§23-1306|(b)">(b)</cite>, and <cite doc="D.C. Code" path="§32-1306|(c)">(c)</cite><span codify:value=""> of An Act</span>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -274,7 +275,7 @@
         <num>(b)</num>
         <para>
           <num>(1)</num>
-          <text>The Mayor may assess an administrative penalty of no less than $350 and no more than $1,000 for each violation of <code-cite doc="D.C. Code" path="32|5B">this title</code-cite>; except, that the penalty for each violation of section 102(d) and 103(b) assessed against an employer shall be for not less than $1,000.</text>
+          <text>The Mayor may assess an administrative penalty of no less than $350 and no more than $1,000 for each violation of <code-cite doc="D.C. Code" path="32|5B">this title</code-cite>; except, that the penalty for each violation of <span codify:value="§§">section</span> <code-cite doc="D.C. Code" path="§32-581.02|(d)" codify:value="32-581.02(d)">102(d)</code-cite> and <code-cite doc="D.C. Code" path="§32-581.03|(b)" codify:value="32-581.03(b)">103(b)</code-cite> assessed against an employer shall be for not less than $1,000.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -375,7 +376,7 @@
           <find>
             <cite path="§32-1307">§ 32-1307</cite>
           </find>
-          <replace><code-cite doc="D.C. Code" path="§32-1307">section 7</code-cite> and <code-cite doc="D.C. Code" path="§32-581.04|(a)">section 104(a)</code-cite> and <code-cite doc="D.C. Code" path="§32-581.04|(b)">(b) of the Ban on Non-Compete Agreements Amendment Act of 2020, passed on 2nd reading on December 15, 2020 (Enrolled version of Bill 23-494) ("Ban on Non-Compete Agreements Act")</code-cite></replace>
+          <replace><code-cite doc="D.C. Code" path="§32-1307">section 7</code-cite> and <code-cite doc="D.C. Code" path="§32-581.04|(a)">section 104(a)</code-cite> and <cite doc="D.C. Code" path="§32-581.04|(b)">(b) of the Ban on Non-Compete Agreements Amendment Act of 2020, passed on 2nd reading on December 15, 2020 (Enrolled version of Bill 23-494) ("Ban on Non-Compete Agreements Act")</cite></replace>
         </codify:find-replace>
       </para>
       <para codify:path="(c)">
@@ -396,8 +397,10 @@
     <section>
       <num>301</num>
       <text>The Broadcast Industry Contracting Freedom Act of 2002, effective March 27, 2003 (D.C. Law 14-258; D.C. Official Code § 32-571 <em>et seq.</em>), is repealed.</text>
-      <codify:repeal doc="D.C. Code" path="32|5A"/>
-      <codify:not-funded-anno doc="D.C. Code" path="32|5A" applicability-path="§302" action="repeal of" display-template=""/>
+      <!-- <codify:repeal doc="D.C. Code" path="32|5A"/> Waiting for the applicability date of this section (see Law 24-45)-->
+      <!-- <codify:not-funded-anno doc="D.C. Code" path="32|5A" applicability-path="§302" action="repeal of" display-template=""/> -->
+     
+        <codify:repeal doc="D.C. Code" path="32|5A"/>
     </section>
     <section>
       <num>302</num>
@@ -405,7 +408,14 @@
       <para>
         <num>(a)</num>
         <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-        <codify:applicability doc="D.C. Law 23-209" date="notfunded" history="false" display-template=""/>
+        <!-- <codify:applicability doc="D.C. Law 23-209" path="§101" date="notfunded" history="false" display-template=""/>
+        <codify:applicability doc="D.C. Law 23-209" path="§102" date="notfunded" history="false" display-template=""/>
+        <codify:applicability doc="D.C. Law 23-209" path="§103" date="notfunded" history="false" display-template=""/>
+        <codify:applicability doc="D.C. Law 23-209" path="§104" date="notfunded" history="false" display-template=""/>
+        <codify:applicability doc="D.C. Law 23-209" path="§105" date="notfunded" history="false" display-template=""/>
+        <codify:applicability doc="D.C. Law 23-209" path="§201" date="notfunded" history="false" display-template=""/> -->
+
+        <!-- Section 2 of Law 24-132 made this applicable to October 1, 2022 -->
       </para>
       <para>
         <num>(b)</num>

@@ -780,7 +780,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>36</num>
-    <heading>Crimes Committed Against Certain Persons.</heading>
+    <heading> Enhanced Crimes Committed Against Certain Persons.</heading>
     <xi:include href="./sections/22-3601.xml"/>
     <xi:include href="./sections/22-3602.xml"/>
   </container>

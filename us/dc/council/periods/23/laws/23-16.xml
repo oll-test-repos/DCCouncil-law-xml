@@ -4758,7 +4758,7 @@
                 <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
               </para>
             </para>
-            <annotation doc="D.C. Law 13-176" type="History" path="§7j">Oct. 21, 2000, D.C. Law 13-176, § 7h [§ 7j]</annotation>
+            <annotation doc="D.C. Law 13-176" type="History" path="§7j">Oct. 21, 2000, D.C. Law 13-176, § 7j</annotation>
           </section>
         </include>
         <aftertext>.</aftertext>
@@ -5166,7 +5166,7 @@
                 </para>
                 <para>
                   <num>(7)</num>
-                  <text>An analysis of what infrastructure and operating enhancements would be necessary for the District of Columbia Public School system to successfully administer self-operated school food services in all public schools, including whether the District should fund the central kitchen required to be established by <code-cite doc="D.C. Code" path="§38-822.04">section 204</code-cite> <span codify:value="[repealed]"/>;</text>
+                  <text>An analysis of what infrastructure and operating enhancements would be necessary for the District of Columbia Public School system to successfully administer self-operated school food services in all public schools, including whether the District should fund the central kitchen required to be established by section 204;</text>
                 </para>
               </para>
               <para>
@@ -5183,8 +5183,8 @@
             </section>
           </include>
           <aftertext>.</aftertext>
+          <annotation doc="D.C. Law 18-209" type="History" path="§203a">July 27, 2010, D.C. Law 18-209, § 203a</annotation>
         </para>
-        <annotation doc="D.C. Law 18-209" type="History" path="§203a">July 27, 2010, D.C. Law 18-209, § 203a</annotation>
       </section>
     </container>
     <container>
@@ -7404,6 +7404,10 @@
           <num>(b)</num>
           <text>The existing text is designated as subsection (a).</text>
           <codify:redesignate-para num-value="(a)"/>
+          <codify:find-replace path="(a)|(4)" count="1">
+            <find>of this section</find>
+            <replace>of this section [subsection]</replace>
+          </codify:find-replace>
         </para>
         <para>
           <num>(c)</num>
@@ -9388,13 +9392,13 @@
             <para>
               <num>(a)</num>
               <text>Sections 5 and 6 shall apply upon the date of inclusion of their fiscal effect in an approved budget and financial plan.</text>
-              <codify:applicability doc="D.C. Law 22-293" path="§5" date="notfunded" history="false"/>
-              <codify:applicability doc="D.C. Law 22-293" path="§6" date="notfunded" history="false"/>
+              <!-- <codify:applicability doc="D.C. Law 22-293" path="§5" date="notfunded" history="false"/> -->
+              <!-- <codify:applicability doc="D.C. Law 22-293" path="§6" date="notfunded" history="false"/> -->
               <codify:annotation doc="D.C. Code" path="§10-171.04" type="Applicability" history="false">
-              Applicability of <cite doc="D.C. Law 22-293">D.C. Law 22-293</cite>: <cite doc="D.C. Law 23-16" path="§7169">§ 7169 of D.C. Law 23-16</cite> provided that the creation of this section by <cite doc="D.C. Law 22-293" path="§5">§ 5 of D.C. Law 22-293</cite>, is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.
+              Applicability of <cite doc="D.C. Law 22-293">D.C. Law 22-293</cite>: <cite doc="D.C. Law 23-16" path="§7169">§ 7169 of D.C. Law 23-16</cite> provided that the creation of this section by <cite doc="D.C. Law 22-293" path="§5">§ 5 of D.C. Law 22-293</cite>, is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the creation of this section has not been implemented.
               </codify:annotation>
               <codify:annotation doc="D.C. Code" path="§10-171.05" type="Applicability" history="false">
-              Applicability of <cite doc="D.C. Law 22-293">D.C. Law 22-293</cite>: <cite doc="D.C. Law 23-16" path="§7169">§ 7169 of D.C. Law 23-16</cite> provided that the creation of this section by <cite doc="D.C. Law 22-293" path="§6">§ 6 of D.C. Law 22-293</cite>, is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.
+              Applicability of <cite doc="D.C. Law 22-293">D.C. Law 22-293</cite>: <cite doc="D.C. Law 23-16" path="§7169">§ 7169 of D.C. Law 23-16</cite> provided that the creation of this section by <cite doc="D.C. Law 22-293" path="§6">§ 6 of D.C. Law 22-293</cite>, is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the creation of this section has not been implemented.
               </codify:annotation>
             </para>
             <para>

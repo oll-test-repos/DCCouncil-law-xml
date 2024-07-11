@@ -136,7 +136,7 @@
       <container>
         <prefix>Subchapter</prefix>
         <num>X</num>
-        <heading>Freeze on Pay Increases and Benefits fromOctober 1, 2020 through September 30, 2021.</heading>
+        <heading>Freeze on Pay Increases and Benefits from October 1, 2020 through September 30, 2021.</heading>
       </container>
     </codify:insert>
     <container>
@@ -1472,7 +1472,7 @@
               <para>
                 <codify:insert/>
                 <num>(5)</num>
-                <text>Funds to provide real property tax rebates pursuant to D.C. Official Code § 47-4665, in amount not to exceed $3 million in a fiscal year; except, that in Fiscal Year 2021, the amount shall not exceed $580,366;</text>
+                <text>Funds to provide real property tax rebates pursuant to <code-cite doc="D.C. Code" path="§47-4665">D.C. Official Code § 47-4665</code-cite>, in amount not to exceed $3 million in a fiscal year; except, that in Fiscal Year 2021, the amount shall not exceed $580,366;</text>
               </para>
               <para>
                 <codify:insert/>
@@ -1492,7 +1492,7 @@
               <num>(i)</num>
               <para>
                 <num>(1)</num>
-                <text>Notwithstanding section 1094 of the Grant Administration Act of 2013, effective December 24, 2013 (D.C. Law 20-61; D.C. Official Code § 1-328.13), in Fiscal Year 2021, the Deputy Mayor shall award a grant to a bank chartered under the laws of the District on or before March 11, 2020, in an amount of at least $1 million for purposes that:</text>
+                <text>Notwithstanding <code-cite doc="D.C. Code" path="§1-328.13">section 1094 of the Grant Administration Act of 2013, effective December 24, 2013 (D.C. Law 20-61; D.C. Official Code § 1-328.13)</code-cite>, in Fiscal Year 2021, the Deputy Mayor shall award a grant to a bank chartered under the laws of the District on or before March 11, 2020, in an amount of at least $1 million for purposes that:</text>
                 <para>
                   <num>(A)</num>
                   <text>Support an equitable economic recovery for the District of Columbia; and</text>
@@ -1603,7 +1603,7 @@
           <text>A new section 47-860 is added to read as follows:</text>
           <include>
             <section>
-              <codify:insert path="47|8|II" num-value="[47-859.06]"/>
+              <codify:insert path="47|8|II"/>
               <prefix>§</prefix>
               <num>47-860</num>
               <heading>Tax abatement for affordable housing in high-need affordable housing areas.</heading>
@@ -2493,7 +2493,7 @@
           <para>
             <codify:insert after="(2)"/>
             <num>(2A)</num>
-            <text>School year internship pilot. —</text>
+            <heading>School year internship pilot. —</heading>
             <para>
               <num>(A)</num>
               <text>In Fiscal Year 2021, a pilot program called the School Year Internship Pilot Program ("Program") for 250 District high school students to provide work-based learning opportunities during the school year.</text>
@@ -5717,7 +5717,7 @@
           <para>
             <codify:insert path="§38-2905.01"/>
             <num>(d)</num>
-            <text>Beginning December 31, 2023, and annually thereafter, every local education agency that is allocated funds pursuant to this section shall provide the Office of the State Superintendent of Education with data related to expenditures of such funds consistent with reporting standards established by the Department of Education pursuant to s<code-cite doc="D.C. Code" path="§38-191|(b)|(10)">ection 202(b)(10) of the Department of Education Establishment Act of 2007, effective June 12, 2007 (D.C. Law 17-9; D.C. Official Code § 38-191(b)(10))</code-cite>.</text>
+            <text>Beginning December 31, 2023, and annually thereafter, every local education agency that is allocated funds pursuant to this section shall provide the Office of the State Superintendent of Education with data related to expenditures of such funds consistent with reporting standards established by the Department of Education pursuant to <code-cite doc="D.C. Code" path="§38-191|(b)|(10)">section 202(b)(10) of the Department of Education Establishment Act of 2007, effective June 12, 2007 (D.C. Law 17-9; D.C. Official Code § 38-191(b)(10))</code-cite>.</text>
           </para>
         </include>
         <aftertext>.</aftertext>
@@ -6443,7 +6443,7 @@
               <para>
                 <codify:insert before="(1B)"/>
                 <num>(1)</num>
-                <text>"ABC Board" means the Alcoholic Beverage Control Board.".</text>
+                <text>"ABC Board" means the Alcoholic Beverage Control Board.<span codify:value="">".</span></text>
               </para>
               <para>
                 <codify:insert before="(1B)"/>
@@ -9559,12 +9559,8 @@
         <text>Section 47-1808.02(1) of the District of Columbia Official Code is amended by striking the phrase "Internal Revenue Code of 1986." and inserting the phrase "Internal Revenue Code of 1986. Taxable income shall include gain from the sale or other disposition of any assets, including tangible assets and intangible assets, including real property and interests in real property, in the District, even when such a sale or other disposition results in the termination of an unincorporated business." in its place.</text>
         <codify:find-replace path="§47-1808.02|(1)" count="1">
           <find>Internal Revenue Code of 1986.</find>
-          <replace>Internal Revenue Code of 1986.</replace>
-        </codify:find-replace>
-        <!-- <codify:find-replace path="§47-1808.02|(1)" count="1">
-          <find>Internal Revenue Code of 1986.</find>
           <replace>Internal Revenue Code of 1986. Taxable income shall include gain from the sale or other disposition of any assets, including tangible assets and intangible assets, including real property and interests in real property, in the District, even when such a sale or other disposition results in the termination of an unincorporated business.</replace>
-        </codify:find-replace> delayed appl -->
+        </codify:find-replace>
       </section>
       <section>
         <num>7013</num>
@@ -9850,7 +9846,7 @@
         <num>7067</num>
         <text>Section 3 of the Boxing and Wrestling Commission Amendment Act of 2018, effective February 22, 2019 (D.C. Law 22-228; 66 DCR 200), is repealed.</text>
         <codify:repeal doc="D.C. Law 22-228" path="§3"/>
-        <codify:annotation doc="D.C. Law 22-228" type="Applicability" history="false"><cite doc="D.C. Law 23-149" path="§7067">Section 7067 of D.C. Law 23-149</cite> repealed <cite doc="D.C. Law 22-228" path="§3">section 3 of D.C. Law 22-228</cite> that provided that the amendment of this section by D.C. Law 22-210 is subject to the includsion of the law' fiscal effect in an approved budget and financial plan.  Therefore that amendment has been implemented.
+        <codify:annotation doc="D.C. Law 22-228" type="Applicability" history="false"><cite doc="D.C. Law 23-149" path="§7067">Section 7067 of D.C. Law 23-149</cite> repealed <cite doc="D.C. Law 22-228" path="§3">section 3 of D.C. Law 22-228</cite> that provided that the amendment of this section by D.C. Law 22-210 is subject to the inclusion of the law' fiscal effect in an approved budget and financial plan.  Therefore that amendment has been implemented.
         </codify:annotation>
       </section>
       <section>
@@ -9906,7 +9902,7 @@
               <num>(a)</num>
               <text>Section 4 shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
               <codify:applicability doc="D.C. Law 22-280" path="§4" date="notfunded" history="false"/>
-              <codify:annotation doc="D.C. Code" path="§10-1053" type="Applicability" history="false"><cite doc="D.C. Law 23-149" path="§7069">Section 7069 of D.C. Law 23-149</cite> amended [added] <cite doc="D.C. Law 22-280" path="§5">section 5 [5a] to D.C. Law 22-280</cite> providing that the creation of this section by D.C. Law 22-280 is subject to the includsion of the law' fiscal effect in an approved budget and financial plan.  Therefore the creation of this section has not been implemented.
+              <codify:annotation doc="D.C. Code" path="§10-1053" type="Applicability" history="false"><cite doc="D.C. Law 23-149" path="§7069">Section 7069 of D.C. Law 23-149</cite> amended [added] <cite doc="D.C. Law 22-280" path="§5">section 5 [5a] to D.C. Law 22-280</cite> providing that the creation of this section by D.C. Law 22-280 is subject to the inclusion of the law' fiscal effect in an approved budget and financial plan.  Therefore the creation of this section has not been implemented.
             </codify:annotation>
             </para>
             <para>
@@ -9939,7 +9935,7 @@
         <num>7071</num>
         <text>Section 4 of the Mypheduh Films DBA Sankofa Video and Books Real Property Tax Exemption Act of 2019, effective September 11, 2019 (D.C. Law 23-24; 66 DCR 9759), is repealed.</text>
         <codify:repeal doc="D.C. Law 23-24" path="§4"/>
-        <codify:annotation doc="D.C. Law 23-24" type="Applicability" history="false"><cite doc="D.C. Law 23-149" path="§7071">Section 7071 of D.C. Law 23-149</cite> repealed <cite doc="D.C. Law 23-24" path="§4">section 4 of D.C. Law 23-24</cite> that provided that the creation of this section by D.C. Law 23-24 is subject to the includsion of the law' fiscal effect in an approved budget and financial plan.  Therefore that amendment has been implemented.
+        <codify:annotation doc="D.C. Law 23-24" type="Applicability" history="false"><cite doc="D.C. Law 23-149" path="§7071">Section 7071 of D.C. Law 23-149</cite> repealed <cite doc="D.C. Law 23-24" path="§4">section 4 of D.C. Law 23-24</cite> that provided that the creation of this section by D.C. Law 23-24 is subject to the inclusion of the law' fiscal effect in an approved budget and financial plan.  Therefore that amendment has been implemented.
         </codify:annotation>
       </section>
       <section>

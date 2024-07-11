@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-2509.08(Perm)</num>
-  <heading>Concealed Pistol Licensing Review Board.</heading>
+  <heading proof="needed">Concealed Pistol Licensing Review Board.</heading>
   <para>
     <num>(a)</num>
-    <text>There is established a Concealed Pistol Licensing Review Board (“Board”) for the purpose of hearing appeals from:</text>
+    <text>There is established a Concealed Pistol Licensing Review Board ("Board") for the purpose of hearing appeals from:</text>
     <para>
       <num>(1)</num>
       <text>A denial of an application or renewal application for a license to carry a concealed pistol in the District pursuant to this unit;</text>
@@ -25,11 +25,11 @@
       <text>The Board shall consist of 11 members as follows:</text>
       <para>
         <num>(A)</num>
-        <text>The United States Attorney (“USAO”) for the District of Columbia or his or her designee; provided, that if the USAO declines to provide a representative, the Mayor shall appoint a person who is a former employee of the USAO;</text>
+        <text>The United States Attorney ("USAO") for the District of Columbia or the USAO's designee; provided, that if the USAO declines to provide a representative, the Mayor shall appoint a person who is a former employee of the USAO;</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>The Attorney General for the District of Columbia or his or her designee;</text>
+        <text>The Attorney General for the District of Columbia or the Attorney General's designee;</text>
       </para>
       <para>
         <num>(C)</num>
@@ -48,7 +48,7 @@
         </para>
         <para>
           <num>(ii)</num>
-          <text>Two District residents with experience in the operation, care, and handling of firearms; and</text>
+          <text>Two District residents with experience in the operation, care, and handling of firearms;</text>
         </para>
         <para>
           <num>(iii)</num>
@@ -94,7 +94,7 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>Members shall serve without compensation, but shall be compensated for actual and necessary expenses incurred in the performance of their official duties.</text>
+      <text>Members of the Board, except members who are District or federal government employees, shall be entitled to compensation as provided in <u>§ 1-611.08</u> for their service on the Board.</text>
     </para>
   </para>
   <para>
@@ -118,11 +118,10 @@
   </para>
   <para>
     <num>(f)</num>
-    <text>Any person, including the Chief, aggrieved by a final action of the Board may file an appeal in accordance with <cite path="2|5|I">subchapter I of Chapter 5 of Title 2</cite> [<cite path="§2-501">§ 2-501</cite> et seq.].</text>
+    <text>Any person, including the Chief, aggrieved by a final action of the Board may file an appeal in accordance with <u>subchapter I of Chapter 5 of Title 2</u> [<u>§ 2-501</u> et seq.].</text>
   </para>
-  <annotations>
-    <annotation doc="D.C. Law 1-85" type="History" path="§908">Sept. 24, 1976, D.C. Law 1-85, § 908</annotation>
-    <annotation doc="D.C. Law 20-279" type="History">as added June 16, 2015, D.C. Law 20-279, § 2(f), 62 DCR 1944</annotation>
-    <annotation doc="D.C. Law 23-149" type="History" path="§3052">Dec. 3, 2020, D.C. Law 23-149, § 3052, 67 DCR 10493</annotation>
-  </annotations>
+  <annotation doc="D.C. Law 1-85" type="History" path="§908">Sept. 24, 1976, D.C. Law 1-85, § 908</annotation>
+  <annotation doc="D.C. Law 20-279" type="History">as added June 16, 2015, D.C. Law 20-279, § 2(f), 62 DCR 1944</annotation>
+  <annotation doc="D.C. Law 23-149" type="History" path="§3052">Dec. 3, 2020, D.C. Law 23-149, § 3052, 67 DCR 10493</annotation>
+  <annotation doc="D.C. Law 24-45" type="History" path="§3023">Dec. 3, 2020, D.C. Law 24-45, § 3023, 68 DCR 10163</annotation>
 </section>
