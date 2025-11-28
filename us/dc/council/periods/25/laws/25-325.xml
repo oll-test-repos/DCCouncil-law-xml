@@ -1153,7 +1153,7 @@
           <text>Subsection (b)(1) is amended to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:replace doc="D.C. Law 25-161" path="§§2|includes|9a|(b)|(1)"/>
+              <codify:replace doc="D.C. Law 25-161" path="§2|includes|9a|(b)|(1)"/>
               <num>(1)</num>
               <text>The DMV may waive any outstanding fines for violations of <code-cite doc="D.C. Code" path="§50-2201.04">section 9 of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (34 Stat. 1123; D.C. Official Code § 50-2201.04)</code-cite>, or for violations of Chapter 24 of Title 18 of the District of Columbia Municipal Regulations based on an individual's participation in, and completion of, courses developed pursuant to subsection (a) of this section.</text>
             </para>
