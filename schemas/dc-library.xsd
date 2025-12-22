@@ -312,6 +312,7 @@
         <xs:element ref="annotation" minOccurs="0" maxOccurs="unbounded"/>
         <xs:any namespace="https://code.dccouncil.us/schemas/codify" minOccurs="0" maxOccurs="unbounded"/>
       </xs:sequence>
+      <xs:attribute name="name" type="xs:string" use="optional"/>
       <xs:attributeGroup ref="codify:allAttributes"/>
     </xs:complexType>
   </xs:element>
