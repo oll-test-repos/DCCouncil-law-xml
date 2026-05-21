@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <library xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <heading>D.C. Law Library</heading>
   <meta>
@@ -7,11 +7,11 @@
       <email>code@dccouncil.us</email>
     </contact>
     <canonical-urls>
-      <xml-bulk>https://github.com/dccouncil/law-xml</xml-bulk>
-      <html-bulk>https://github.com/dccouncil/law-html</html-bulk>
+      <xml-bulk>https://github.com/oll-test-repos/DCCouncil-law-xml</xml-bulk>
+      <html-bulk>https://github.com/oll-test-repos/DCCouncil-law-html</html-bulk>
       <html>https://code.dccouncil.gov</html>
-      <static-assets>https://github.com/dccouncil/law-static-assets</static-assets>
-      <law-git>https://github.com/dccouncil/law.git</law-git>
+      <static-assets>https://github.com/oll-test-repos/DCCouncil-law-static-assets</static-assets>
+      <law-git>git@github.com:oll-test-repos/DCCouncil-law.git</law-git>
     </canonical-urls>
     <redirects>
       <redirect>
